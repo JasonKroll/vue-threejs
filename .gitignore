@@ -25,3 +25,5 @@ package-lock.json
 /package
 /package *
 *.tgz
+
+babel.config.js
